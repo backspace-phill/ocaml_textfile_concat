@@ -1,0 +1,4 @@
+(executable
+ (public_name ocaml_textfile_concat)
+ (name ocaml_textfile_concat)
+ (libraries ocaml_textfile_concat))
